@@ -421,15 +421,58 @@
 //
 
 
+// alert ("Dzemaludin")
+
+// a = 22
+// b = 12
+// c = 10
+
+// console.log("zbir brojeva je: " +  ( a+b+c ));
+
+// a = "Java "
+// b = "Programsi "
+// c = "Jezik "
+
+// console.log(a+b+c);
+
+
+// a = 10 
+// b = a * 2 + 10
+
+// console.log("vrednost b: " +b);
 
 
 
 
+// a = ["Java","Python","C++","C"]
+// a[4] = "PHP"
+// alert(a [0]);
+// alert(a [1]);
+// alert(a [2]);
+// alert(a [3]);
+// alert(a [4]);
+// a.push ("go")
+// console.log(a.length);
 
+// for (let i = 0; i < 10; i++) {
 
- 
+    
+//     console.log("vrednos i " +i);
+    
+// }
 
+// i = 0
+// while(i < 100){
+//     i += 2 
+//     console.log("vrednost btojaca i je: " +i);
+// }
 
+// a = [2,4,5,6,7,33]
+// console.log("Brojevi a su:...");
+// for (let i = 0; i < a.length; i++) {
+//     console.log("Brojevi  " + a[i]);
+    
+// }
 
 
 
