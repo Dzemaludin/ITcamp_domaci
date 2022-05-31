@@ -474,6 +474,85 @@
     
 // }
 
+// for (let i = 0; i < 10; i++) {
+//     console.log("I je: " +i) ;
+    
+// }
 
 
 
+// i = 0
+// while(i < 100) {
+//     console.log("Vrednost brojaca i je: " +i);
+//     i += 2
+// }
+
+//  a = [1,3,4,5,45,6,7664,45]
+//  console.log("Elementi brojaca su .....");
+//  novi = [];
+
+// a.forEach((el) => {
+//     if (!novi.includes(el)) {
+//         novi.push(el);
+//     }
+// });
+
+//     for(i = 0; i < novi.length ; i++) {
+      
+//         console.log( i + 1 +" Element je : " + novi[i]  ) ;
+//        }
+//        console.log("---------------------------------");
+//        i = 0;
+//        while(i < novi.length) {
+      
+//         console.log( i + 1 +" Element je : " + novi[i]  ) ;
+//         i += 1;
+//        }
+
+
+// a = [1,3,4,5,6,7664,45,45]
+
+// a.forEach(function(broj){
+//     console.log("Element: " +broj);
+// })
+
+//   function last(arr,num){
+//     arr2 = []
+//     if (num > arr.length){
+//         console.log(arr);
+//     } 
+//     else if (num == 0){
+//         console.log(arr[arr.length -1]);
+//     }
+//     else{
+//         for( i = num; i > 0; i--){
+//             arr2.push(arr[arr.length -i])
+//         }
+//         console.log(arr2);
+//     }
+//   }
+
+//   last([7,9,0,-2],0)
+//   last([7,9,0,-2],3)
+//   last([7,9,0,-2],6)
+
+// a = [1,4,5,7,10]
+// console.log(a.find((el) => el > 5));
+// console.log(a.findIndex((el) => el > 5));
+
+// console.log(a.every((el)=> el > 5));
+// console.log(a.some((el)=> el > 5));
+// console.log(a.filter((el) => el != 5 && el > 4 ));
+
+
+
+// cene = [100,321,2345,3567,473756]
+
+// console.log(cene.reduce((preValue,currValue ) => preValue + currValue));
+
+
+a = 5 
+b = 6
+ if (a != b && "Dzema" === "Dzema"){
+     console.log("evet");
+ }
