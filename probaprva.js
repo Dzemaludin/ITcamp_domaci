@@ -551,8 +551,96 @@
 // console.log(cene.reduce((preValue,currValue ) => preValue + currValue));
 
 
-a = 5 
-b = 6
- if (a != b && "Dzema" === "Dzema"){
-     console.log("evet");
- }
+// a = 5 
+// b = 6
+//  if (a != b && "Dzema" === "Dzema"){
+//      console.log("evet");
+// 
+
+// a = 3
+// b = 6
+
+
+// if ( ! (b >  a)){
+//     console.log(22);
+// }
+// else {
+//     console.log(11);
+// }
+
+
+// a = 20
+// b = 10
+
+// if ( a === b){
+//     console.log("Jednako je....");
+// }else{
+//     console.log("Nije jednako....");
+// }
+
+
+// proces = 3
+
+
+// if ( proces === 3 ){
+//     console.log("Proces 3");
+// }else if (proces === 1) {
+//     console.log("proces 1  ");
+// } else if (proces === 3 ){
+//     console.log("Proces 3 ");
+// } else{
+//     console.log("Ostalo");
+// }
+
+// proces = 4
+
+// switch(proces){
+//     case  1:
+//         console.log("Proces 1");
+//         break
+
+//     case  2:
+//         console.log("Proces 2");
+//         break
+
+//     case  3:
+//         console.log("Proces 3");
+//         break   
+        
+//     default:
+//     console.log("Netecan proces");
+
+// }
+
+// function pozdrav(){
+//     console.log("Merhaba Merhaba ... ");
+// }
+
+// pozdrav()
+// pozdrav()
+// pozdrav()
+// pozdrav()
+
+
+// function pozdrav( ime , pol ){
+//     if(pol == "m"){
+//         console.log("Merhaba Merhaba ... " + ime +"e");
+//     } else if (pol == "z"){
+//         console.log("Merhaba Merhaba ... " + ime +"a");
+//     }else {
+//         console.log("Merhaba Merhaba ... " + ime );
+//     }
+// }
+
+// pozdrav ("Dzemaludin","m")
+// pozdrav ("Vahid","m")
+// pozdrav ("Tarik" ,"m")
+// pozdrav ("Aldin")
+
+// function zbir(a,b,c){
+//     return  a + b + c
+// }
+// zbirr = zbir(1,5,3)
+// console.log("Zbir brojeva je: " + zbirr );
+
+// 
