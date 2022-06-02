@@ -644,3 +644,80 @@
 // console.log("Zbir brojeva je: " + zbirr );
 
 // 
+// niz = [ 3,4,5,6,7,8,9]
+// dnevniPazar = 0 
+//  for (i = 0; i < niz.length ; i ++){
+//      dnevniPazar += niz[i]
+//  }
+//  console.log(dnevniPazar);
+
+//  niz = [ 3,4,[5,6,7],8,9]
+
+
+
+// niz = [
+//     [1,2,3],
+//     [4,5,6],
+//     [7,8,9]
+// ]
+
+// for (i = 0 ; i < niz.length ; i++){
+//     for(j = 0 ; j < niz[i].length ; j++)
+//     console.log(niz[i][j]  , i ,j);
+// }
+
+
+
+// niz = [
+//     [1,2,3],
+//     [4,5,6],
+//     [7,8,9]
+// ]
+
+// niz.push(false)
+// console.log(niz);
+
+// niz = [
+//     [1,2,3],
+//     [4,5,6],
+//     [7,8,9]
+// ]
+
+
+// niz.unshift(false)
+// console.log(niz);
+
+// niz = [21,3,54,67,45,321,54,34,432,23]
+
+
+// niz.splice(1,2)
+// console.log(niz);
+
+
+// niz = [
+//     [1,2,3],
+//     [4,5,6],
+//     [7,8,9]
+// ]
+// niz.splice(1,1,12,12,12,12)
+// console.log(niz);
+
+// niz = [21,3,54,67,45,321,54,23]
+// niz.unshift(77)
+// console.log(niz);
+
+
+// niz = [
+//     [1,2,3],
+//     [4,5,6],
+//     [7,8,9]
+// ]
+
+// for (i = 0; i < niz.length ; i++){
+//     a = ""
+//     for(j = 0; j < niz.length ; j++){
+//         a += niz[i][j] + " "
+//     }
+//     console.log(a);
+   
+// }
