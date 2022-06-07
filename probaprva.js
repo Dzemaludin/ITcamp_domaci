@@ -721,3 +721,94 @@
 //     console.log(a);
    
 // }
+
+// niz = [
+//     [1,2,3],
+//     [4,5,6],
+//     [7,8,9]
+// ]
+
+
+// niz2 = [];
+
+// suma = 0;
+// for (let i = 0; i < niz.length; i++) {
+//     suma += niz[i][0];
+
+// }
+// niz2.push(suma)
+// suma = 0;
+// for (let i = 0; i < niz.length; i++) {
+//     suma += niz[i][1];
+
+// }
+// niz2.push(suma)
+// suma = 0;
+// for (let i = 0; i < niz.length; i++) {
+//     suma += niz[i][2];
+
+// }
+// niz2.push(suma)
+// niz.push(niz2);
+
+// for(i = 0; i < niz.length ; i++){
+//     red = ""
+//     for(j = 0; j < niz[i].length ; j++) {
+//         red += niz[i][j] +  "   "
+//     }
+//     console.log(red);
+// }
+
+
+
+// niz = [
+//     [1,2,3],
+//     [4,5,6],
+//     [7,8,9]
+// ]
+
+// for(i = 0; i < niz.length ; i++){
+//     red = ""
+//     for(j = 0; j < niz[i].length ; j++) {
+//         red += niz[i][j] + " "
+//     }
+//     console.log(red);
+// }
+
+
+
+// niz = [
+//     [1,2,3],
+//     [4,5,6],
+//     [7,8,9]
+// ]
+//  suma = []
+
+// for(kol = 0; kol < niz[0].length ; kol++){
+//     s = 0
+//     console.log(`==========================`);
+//     for(red = 0; red < niz.length ; red++){
+//         console.log(niz[red][kol]);
+
+//     }
+// }
+
+
+
+
+// niz = [21,12,23,35,65,65,87]
+
+// niz2 = []
+
+
+// // for (let i = 0; i < niz.length; i++) {
+    
+// // // }
+// niz2 = niz.map((el) => el * 2 {
+//     return el * 2
+// })
+
+
+
+// console.log(niz);
+// console.log(niz2);
