@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    width: auto;
+    height: 70px;
+    background-color: rgb(230, 18, 18);
+    color: black;
+    font-size: large;
+}
