@@ -26,7 +26,7 @@
 // if (dan <= 30) {
 //     console.log()
 
-  
+
 // // 
 // console.log(dan);
 // console.log(a);
@@ -49,7 +49,7 @@
 // for (i =1 ; i <= 10; i++) {
 //     if(i !== 7){
 //     console.log(i )
-   
+
 //     }
 
 // }
@@ -149,7 +149,7 @@
 // for(i=0 ; i <=broj ; i++) {
 //     zvezdica = zvezdica + "*"
 //     console.log(zvezdica);
-        
+
 //     }
 
 // a = 0
@@ -183,7 +183,7 @@
 
 // while(brojac<100){
 
-    
+
 //     if (brojac % 3 === 0 && brojac %5 === 0){
 //         console.log("fezzbuzz");
 //     }
@@ -208,7 +208,7 @@
 //     zvezdica = zvezdica + "*"
 //     console.log(zvezdica);
 //     brojac++
-        
+
 //     }
 
 
@@ -232,22 +232,22 @@
 
 // pass = ""
 // while (pass !== "sifra123");{
-    //     console.log("aaaa");
-    //     pass = prompt("unesite sifru");
-    // }
+//     console.log("aaaa");
+//     pass = prompt("unesite sifru");
+// }
 
-    
-    
-    // u ptomtu trazimo brojeve i uperacije kad napisemo exit da izadje iz programa
-    
-    
-    
-    // operaciajaa = ""
-    // brojevi = ""
-    
-    // while() {
-        //     broj = prompt("Unesite broj");
-        //     operacija = prompt("Unesi operaciju");
+
+
+// u ptomtu trazimo brojeve i uperacije kad napisemo exit da izadje iz programa
+
+
+
+// operaciajaa = ""
+// brojevi = ""
+
+// while() {
+//     broj = prompt("Unesite broj");
+//     operacija = prompt("Unesi operaciju");
 //     if operacijaa === +
 //     console.log(broj + );
 
@@ -269,7 +269,7 @@
 
 // for(i = 0 ; i < niz.length ; i++ ){
 //     suma += niz[i]
-    
+
 // }
 // console.log(suma);
 // console.log(suma/ niz.length);
@@ -290,7 +290,7 @@
 // niz = [1,2,3,4,5,6,7,8]
 
 // prazan-niz =[]
- 
+
 //  for(i = 0 ; i < niz.length ; i++ ){
 //     prazan-niz.(push)
 
@@ -300,7 +300,7 @@
 // broj = promt("Unesi neki broj")
 // postojanje = false
 // for(i = 0 ; i < niz.length ; i++){
-     
+
 // }
 
 
@@ -311,7 +311,7 @@
 // console.log(niz [i]);
 
 // for(i = 0 ; i < niz.length ; i++ ){
-    
+
 // }
 
 
@@ -456,9 +456,9 @@
 
 // for (let i = 0; i < 10; i++) {
 
-    
+
 //     console.log("vrednos i " +i);
-    
+
 // }
 
 // i = 0
@@ -471,12 +471,12 @@
 // console.log("Brojevi a su:...");
 // for (let i = 0; i < a.length; i++) {
 //     console.log("Brojevi  " + a[i]);
-    
+
 // }
 
 // for (let i = 0; i < 10; i++) {
 //     console.log("I je: " +i) ;
-    
+
 // }
 
 
@@ -498,13 +498,13 @@
 // });
 
 //     for(i = 0; i < novi.length ; i++) {
-      
+
 //         console.log( i + 1 +" Element je : " + novi[i]  ) ;
 //        }
 //        console.log("---------------------------------");
 //        i = 0;
 //        while(i < novi.length) {
-      
+
 //         console.log( i + 1 +" Element je : " + novi[i]  ) ;
 //         i += 1;
 //        }
@@ -606,7 +606,7 @@
 //     case  3:
 //         console.log("Proces 3");
 //         break   
-        
+
 //     default:
 //     console.log("Netecan proces");
 
@@ -719,7 +719,7 @@
 //         a += niz[i][j] + " "
 //     }
 //     console.log(a);
-   
+
 // }
 
 // niz = [
@@ -802,7 +802,7 @@
 
 
 // // for (let i = 0; i < niz.length; i++) {
-    
+
 // // // }
 // niz2 = niz.map((el) => el * 2 {
 //     return el * 2
@@ -818,7 +818,7 @@
 // function zbir(el ){
 //     if zbrir === 6
 //     return
-    
+
 //     console.log(zbir);
 
 // }  
@@ -841,7 +841,7 @@
 //  var longestCommonPrefix = function(strs) {
 //     if(strs.length == 0){return '';}
 //     var length = strs.length, result = '';
-    
+
 //     var s = '', min = strs[0].length, j = 0;
 //     for(let i = 0; i < length ; i++){
 //         j = (length-1 == i) ? 0 : i+1;
@@ -935,45 +935,6 @@
 
 
 
-// niz = [
-
-//       [  08 , 02 , 22 , 97 , 38 , 15 , 00 , 40 , 00 , 75 , 04 , 05 , 07 , 78 , 52 , 12 , 50 , 77 , 91 , 08 ],
-//       [  49 , 49 , 99 , 40 , 17 , 81 , 18 , 57 , 60 , 87 , 17 , 40 , 98 , 43 , 69 , 48 , 04 , 56 , 62 , 00 ],
-//       [  81 , 49 , 31 , 73 , 55 , 79 , 14 , 29 , 93 , 71 , 40 , 67 , 53 , 88 , 30 , 03 , 49 , 13 , 36 , 65 ],
-//       [  52 , 70 , 95 , 23 , 04 , 60 , 11 , 42 , 69 , 24 , 68 , 56 , 01 , 32 , 56 , 71 , 37 , 02 , 36 , 91 ],
-//       [  22 , 31 , 16 , 71 , 51 , 67 , 63 , 89 , 41 , 92 , 36 , 54 , 22 , 40 , 40 , 28 , 66 , 33 , 13 , 80 ],
-//       [  24 , 47 , 32 , 60 , 99 , 03 , 45 , 02 , 44 , 75 , 33 , 53 , 78 , 36 , 84 , 20 , 35 , 17 , 12 , 50 ],
-//       [  32 , 98 , 81 , 28 , 64 , 23 , 67 , 10 , 26 , 38 , 40 , 67 , 59 , 54 , 70 , 66 , 18 , 38 , 64 , 70 ],
-//       [  67 , 26 , 20 , 68 , 02 , 62 , 12 , 20 , 95 , 63 , 94 , 39 , 63 , 08 , 40 , 91 , 66 , 49 , 94 , 21 ],
-//       [  24 , 55 , 58 , 05 , 66 , 73 , 99 , 26 , 97 , 17 , 78 , 78 , 96 , 83 , 14 , 88 , 34 , 89 , 63 , 72 ],
-//       [  21 , 36 , 23 , 09 , 75 , 00 , 76 , 44 , 20 , 45 , 35 , 14 , 00 , 61 , 33 , 97 , 34 , 31 , 33 , 95 ],
-//       [  78 , 17 , 53 , 28 , 22 , 75 , 31 , 67 , 15 , 94 , 03 , 80 , 04 , 62 , 16 , 14 , 09 , 53 , 56 , 92 ],
-//       [  16 , 39 , 05 , 42 , 96 , 35 , 31 , 47 , 55 , 58 , 88 , 24 , 00 , 17 , 54 , 24 , 36 , 29 , 85 , 57 ],
-//       [  86 , 56 , 00 , 48 , 35 , 71 , 89 , 07 , 05 , 44 , 44 , 37 , 44 , 60 , 21 , 58 , 51 , 54 , 17 , 58 ],
-//       [  19 , 80 , 81 , 68 , 05 , 94 , 47 , 69 , 28 , 73 , 92 , 13 , 86 , 52 , 17 , 77 , 04 , 89 , 55 , 40 ],
-//       [  04 , 52 , 08 , 83 , 97 , 35 , 99 , 16 , 07 , 97 , 57 , 32 , 16 , 26 , 26 , 79 , 33 , 27 , 98 , 66 ],
-//       [  88 , 36 , 68 , 87 , 57 , 62 , 20 , 72 , 03 , 46 , 33 , 67 , 46 , 55 , 12 , 32 , 63 , 93 , 53 , 69 ],
-//       [  04 , 42 , 16 , 73 , 38 , 25 , 39 , 11 , 24 , 94 , 72 , 18 , 08 , 46 , 29 , 32 , 40 , 62 , 76 , 36 ],
-//       [  20 , 69 , 36 , 41 , 72 , 30 , 23 , 88 , 34 , 62 , 99 , 69 , 82 , 67 , 59 , 85 , 74 , 04 , 36 , 16 ],
-//       [  20 , 73 , 35 , 29 , 78 , 31 , 90 , 01 , 74 , 31 , 49 , 71 , 48 , 86 , 81 , 16 , 23 , 57 , 05 , 54 ],
-//       [  01 , 70 , 54 , 71 , 83 , 51 , 54 , 69 , 16 , 92 , 33 , 48 , 61 , 43 , 52 , 01 , 89 , 19 , 67 , 48 ]
-// ]
-
-// var maxProizvod = 0;
-// for(let i = 0; i < niz.length; i++) {
-//     var vertikalniNiz = niz[i];
-//     for(let j = 0; j < vertikalniNiz.length; j++) {
-//         if(j < niz[i].length - 4) {
-//             var vertikalniProizvod = niz[i][j] * niz[i][j+1] * niz[i][j+2] * niz[i][j+3];
-//             if(vertikalniProizvod > maxProizvod) {
-//                 maxProizvod = vertikalniProizvod;
-//             }
-//         }
-//         // var horizontalniProizvod = niz[i][j] * niz[i+1][j] * niz[i+2][j] * niz[i+3][j];
-//     }
-    
-// }
-// console.log(maxProizvod)
 
 //     niz2 = []
 
@@ -982,18 +943,18 @@
 // })
 
 
-    //     brojac = 0
-    //     maxSuma = 0
+//     brojac = 0
+//     maxSuma = 0
 
-    // for (let i = 0; i < niz.length; i++) {
-    //     for (let j = 0; j < niz[i].length; j++) {
-               
-            
-    //     } 
-        
-        
-    // }
-    // console.log(niz);
+// for (let i = 0; i < niz.length; i++) {
+//     for (let j = 0; j < niz[i].length; j++) {
+
+
+//     } 
+
+
+// }
+// console.log(niz);
 
 
 // niz = [ 7 , 3 , 1 , 6 , 7 , 1 , 7 , 6 , 5 , 3 , 1 , 3 , 3 , 0 , 6 , 2 , 4 , 9 , 1 , 9 , 2 , 2 , 5 , 1 , 1 , 9 , 6 , 7 , 4 , 4 , 2 , 6 , 5 , 7 , 4 , 7 , 4 , 2 , 3 , 5 , 5 , 3 , 4 , 9 , 1 , 9 , 4 , 9 , 3 , 4 , 
@@ -1030,9 +991,9 @@
 //                 maxProizvod = vertikalniProizvod;
 //             }
 //         }
-        
+
 //     }
-    
+
 // }
 // console.log(maxProizvod);
 
@@ -1043,5 +1004,389 @@
 
 
 // broj =
-// " 7316717653133062491922511967442657474235534919493496983520312774506326239578318016984801869478851843858615607891129494954595017379583319528532088055111254069874715852386305071569329096329522744304355766896648950445244523161731856403098711121722383113622298934233803081353362766142828064444866452387493035890729629049156044077239071381051585930796086670172427121883998797908792274921901699720888093776657273330010533678812202354218097512545405947522435258490771167055601360483958644670632441572215539753697817977846174064955149290862569321978468622482839722413756570560574902614079729686524145351004748216637048440319989000889524345065854122758866688116427171479924442928230863465674813919123162824586178664583591245665294765456828489128831426076900422421902267105562632111110937054421750694165896040807198403850962455444362981230987879927244284909188845801561660979191338754992005240636899125607176060588611646710940507754100225698315520005593572972571636269561882670428252483600823257530420752963450"
- 
+// "7316717653133062491922511967442657474235534919493496983520312774506326239578318016984801869478851843858615607891129494954595017379583319528532088055111254069874715852386305071569329096329522744304355766896648950445244523161731856403098711121722383113622298934233803081353362766142828064444866452387493035890729629049156044077239071381051585930796086670172427121883998797908792274921901699720888093776657273330010533678812202354218097512545405947522435258490771167055601360483958644670632441572215539753697817977846174064955149290862569321978468622482839722413756570560574902614079729686524145351004748216637048440319989000889524345065854122758866688116427171479924442928230863465674813919123162824586178664583591245665294765456828489128831426076900422421902267105562632111110937054421750694165896040807198403850962455444362981230987879927244284909188845801561660979191338754992005240636899125607176060588611646710940507754100225698315520005593572972571636269561882670428252483600823257530420752963450"
+
+// cifre = broj.split(``)
+// cifre = cifre.map((c) => {
+//     return Number(c)
+// })
+// // console.log(cifre);
+// maxProizvod = 0
+// maxCifre = []
+
+// for (let i = 0; i < cifre.length; i++) {
+//     s = 1
+//     cs = []
+//     for (let j = 0; j < 13; j++) {
+//         s= s * cifre[i + j]
+//         cs.push(cifre[i + j])   
+//     }
+//     if (s > maxProizvod) {
+//         maxProizvod = s
+//         maxCifre = cs
+//     }
+// }
+// console.log(maxProizvod);
+// console.log(maxCifre);
+
+// osoba1 = {
+//     ime: "Dzemaludin",
+//     prezime: "Oreovcanin"
+
+// }
+// osoba2 = {...osoba1}
+
+// osoba1.ime = "Dzebra"
+
+// console.log(osoba1);
+// console.log(osoba2);
+
+
+
+
+
+
+
+// niz = [
+
+//     [08, 02, 22, 97, 38, 15, 00, 40, 00, 75, 04, 05, 07, 78, 52, 12, 50, 77, 91, 08],
+//     [49, 49, 99, 40, 17, 81, 18, 57, 60, 87, 17, 40, 98, 43, 69, 48, 04, 56, 62, 00],
+//     [81, 49, 31, 73, 55, 79, 14, 29, 93, 71, 40, 67, 53, 88, 30, 03, 49, 13, 36, 65],
+//     [52, 70, 95, 23, 04, 60, 11, 42, 69, 24, 68, 56, 01, 32, 56, 71, 37, 02, 36, 91],
+//     [22, 31, 16, 71, 51, 67, 63, 89, 41, 92, 36, 54, 22, 40, 40, 28, 66, 33, 13, 80],
+//     [24, 47, 32, 60, 99, 03, 45, 02, 44, 75, 33, 53, 78, 36, 84, 20, 35, 17, 12, 50],
+//     [32, 98, 81, 28, 64, 23, 67, 10, 26, 38, 40, 67, 59, 54, 70, 66, 18, 38, 64, 70],
+//     [67, 26, 20, 68, 02, 62, 12, 20, 95, 63, 94, 39, 63, 08, 40, 91, 66, 49, 94, 21],
+//     [24, 55, 58, 05, 66, 73, 99, 26, 97, 17, 78, 78, 96, 83, 14, 88, 34, 89, 63, 72],
+//     [21, 36, 23, 09, 75, 00, 76, 44, 20, 45, 35, 14, 00, 61, 33, 97, 34, 31, 33, 95],
+//     [78, 17, 53, 28, 22, 75, 31, 67, 15, 94, 03, 80, 04, 62, 16, 14, 09, 53, 56, 92],
+//     [16, 39, 05, 42, 96, 35, 31, 47, 55, 58, 88, 24, 00, 17, 54, 24, 36, 29, 85, 57],
+//     [86, 56, 00, 48, 35, 71, 89, 07, 05, 44, 44, 37, 44, 60, 21, 58, 51, 54, 17, 58],
+//     [19, 80, 81, 68, 05, 94, 47, 69, 28, 73, 92, 13, 86, 52, 17, 77, 04, 89, 55, 40],
+//     [04, 52, 08, 83, 97, 35, 99, 16, 07, 97, 57, 32, 16, 26, 26, 79, 33, 27, 98, 66],
+//     [88, 36, 68, 87, 57, 62, 20, 72, 03, 46, 33, 67, 46, 55, 12, 32, 63, 93, 53, 69],
+//     [04, 42, 16, 73, 38, 25, 39, 11, 24, 94, 72, 18, 08, 46, 29, 32, 40, 62, 76, 36],
+//     [20, 69, 36, 41, 72, 30, 23, 88, 34, 62, 99, 69, 82, 67, 59, 85, 74, 04, 36, 16],
+//     [20, 73, 35, 29, 78, 31, 90, 01, 74, 31, 49, 71, 48, 86, 81, 16, 23, 57, 05, 54],
+//     [01, 70, 54, 71, 83, 51, 54, 69, 16, 92, 33, 48, 61, 43, 52, 01, 89, 19, 67, 48]
+// ]
+
+// var maxProizvod = 0;
+// for(let i = 0; i < niz.length; i++) {
+//     for(let j = 0; j < niz[i].length; j++) {
+//         if(j < niz[i].length - 4) {
+//             // var HBrojevi = [niz[i][j], niz[i][j+1], niz[i][j+2], niz[i][j+3]]
+//             var HProizvod = niz[i][j]  * niz[i][j+1] * niz[i][j+2] * niz[i][j+3];
+//             // var VProizvod = niz[i][j] * niz[i+1][j] * niz[i+2][j] * niz[i+3][j];
+//             if(HProizvod > maxProizvod) {
+//                 maxProizvod = HProizvod;
+//             }
+//         }
+//     }
+//     for (let z = 0; z < niz[i].length; z++) {
+//         if(z < niz[i.length - 4]) {
+//             // var VBrojevi = [niz[i][z], niz[i+1][z], niz[i+2][z], niz[i+3][z]]
+//             var VProizvod = niz[i][z] * niz[i+1][z] * niz[i+2][z] * niz[i+3][z];
+//             if(VProizvod > maxProizvod) {
+//                 maxProizvod = VProizvod;
+//             }
+//         }
+//     }
+//     for (let c = 0; c < niz[i].length- 4; c++) {
+//         if(c < niz[i.length-4]){
+             
+//             var Dproizvod = niz[i][c] * niz[i+1][c+1] * niz[c+2][j+2] * niz[i+3][c+3];
+//             if (Dproizvod > maxProizvod) {
+//                 maxProizvod = Dproizvod
+//             }
+//         }
+
+        
+//     }
+
+// }
+// console.log(maxProizvod)
+
+
+// class Car {
+//     constructor(name , year) {
+//         this.name;
+//         this.year
+//     }
+// }
+// const myCar = new Car()
+// myCar.name = "Ford"
+// myCar.year = 1989
+
+// const Car2 = new Car()
+// Car2.name = "Astra"
+// Car2.year = 2004
+// console.log(myCar);
+// console.log(Car2);
+
+
+
+// function nazivFunnkcije(){
+//     console.log("komanda funkcije");
+//     console.log("komanda funkcije");
+//     console.log("komanda funkcije");
+//     console.log("komanda funkcije");
+    
+
+// }
+
+// console.log("comanda");
+// console.log("comanda");
+// console.log("comanda");
+// console.log("comanda");
+// console.log("comanda");
+// console.log("comanda");
+// console.log("comanda");
+// console.log("comanda");
+
+// nazivFunnkcije()
+
+// console.log("comanda");
+// nazivFunnkcije()
+
+
+// function sumaNiza(arg1) {
+//     suma = 0
+//     for (let i = 0; i < arg1.length; i++) {
+//         suma += arg1[i]
+        
+//     }
+//     return suma
+// }
+// n1 = [1,2,3,4,5]
+// res = sumaNiza(n1)
+// console.log(res);
+
+
+
+// function OkrenutiBr( num){
+//     num = String(num)
+//     res = ""
+
+//     // for (let i = 0; i < num.length; i++) {
+//     //    res = num[i] + res
+        
+//     // }
+
+//     // for (let i = num.length -1; i >= 0; i--) {
+        
+//     //     res += num[i]
+//     // }
+
+
+
+
+//   return Number(res)
+// }
+
+// x = 32243
+// outp = OkrenutiBr(x)
+// console.log(outp);
+
+// function reversNum (num){
+//     num = String(num).split("")
+
+//     for (let i = 0; i < num.length /2 ; i++) {
+        
+        
+//     }
+// }
+
+// function reverseNum(num) {
+//   num = String(num).split(""); // ['3','2','2','4','3']
+
+//   for (let i = 0; i < num.length / 2; i++) {
+//     // [num[i], num[num.length - 1 - i]] = [num[num.length - 1 - i], num[i]];
+//     pomVar = num[i];
+//     num[i] = num[num.length - 1 - i];
+//     num[num.length - 1 - i] = pomVar;
+//   }
+
+//   // num = String(num); // '32243'
+//   // res = ""; // 34223
+
+//   // for (let i = num.length - 1; i >= 0; i--) {
+//   //   res += num[i];
+//   // }
+
+//   // return Number(res);
+//   a = a * b;
+//   b = a * b;
+//   a = a * b;
+
+//   return Number(num.join(""));
+// }
+
+// x = 32243;
+// outp = reverseNum(x);
+
+// console.log(outp);
+
+// function showUserInfo(uName, uUser, uPass) {
+//   console.log(uName);
+//   console.log(uUser);
+//   console.log(uPass);
+// }
+
+// user = {
+//   username: "dzemil",
+//   password: "sifra123",
+//   name: "Dzemil",
+// };
+
+// showUserInfo(user.name, user.username, user.password);
+
+// function suma2nums(num1, num2) {
+//   res = num1 + num2;
+//   return res;
+// }
+
+// retrunValue = suma2nums(10, 13);
+
+// console.log(retrunValue);
+
+// function evenElements(arr) {
+//   if (arr.length === 0) {
+//     return 0;
+//   }
+//   res = arr.filter((el) => {
+//     if (el % 2 === 0) {
+//       return el;
+//     }
+//   });
+
+//   return res;
+// }
+
+// niz1 = evenElements([2, 3, 4, 5, 4, 3, 2]);
+// niz2 = evenElements([]);
+
+// console.log(niz1);
+// console.log(niz2);
+
+// function sumaArrEl(arg1) {
+//   suma = arg1.reduce((prev, curr) => {
+//     return prev + curr;
+//   }, 0);
+
+//   return suma;
+// }
+
+// rez = sumaArrEl([1, 2, 3, 46, 45, 3, 42, 43]);
+
+// if (rez > 100) {
+//   console.log("suma je veca od 100");
+// } else {
+//   console.log("suma nije veca od 100");
+// }
+
+// function firstLetterToUppercase(word) {
+//   wordArr = word.split(" ");
+
+//   for (let i = 0; i < wordArr.length; i++) {
+//     wordArr[i] = wordArr[i].split("");
+//     // wordArr[i] = ["T"].concat(['h', 'e'])
+//     wordArr[i] = [wordArr[i][0].toUpperCase()].concat(wordArr[i].slice(1));
+//     wordArr[i] = wordArr[i].join("");
+
+//     // the
+//     wordArr[i] = wordArr[i].split("");
+//     // ['t', 'h', 'e']
+//     wordArr[i][0] = wordArr[i][0].toUpperCase();
+//     // ['T', 'h', 'e']
+//     wordArr[i] = wordArr[i].join("");
+//     // The
+//   }
+
+//   return wordArr.join(" ");
+// }
+
+// recenica = "the quick brown fox";
+
+// recenica2 = firstLetterToUppercase(recenica);
+
+// console.log(recenica);
+// console.log(recenica2);
+
+// rec = "nekarec";
+// rec = "kapak";
+// ln = rec.length - 1;
+
+// for (let i = 0; i < rec.length / 2; i++) {
+//   if (rec[i] !== rec[ln - i]) {
+//     console.log("Nije planidrom");
+//     break;
+//   }
+// }
+
+// isPalidrom = rec.split("").reverse().join("") === rec;
+
+// if (isPalidrom) {
+//   console.log("jeste");
+// } else {
+//   console.log("nije");
+// }
+
+// prev = 1;
+// curr = 1;
+// suma = 0;
+// while (curr + prev < 4000000) {
+//   // [curr, prev] = [prev + curr, curr];
+//   pomvar = curr + prev;
+//   prev = curr;
+//   curr = pomvar;
+
+//   c;
+//   if (curr % 2 === 0) {
+//     suma += curr;
+//   }
+// }
+
+// console.log(suma);
+
+// function prefectNumber(num) {
+//   divNum = 0;
+
+//   for (let i = 1; i < num; i++) {
+//     if (num % i === 0) {
+//       divNum += i;
+//     }
+//   }
+
+//   if (divNum === num) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
+
+// console.log(prefectNumber(496));
+// console.log(prefectNumber(4));
+
+    // function apoensCalc(amount, apoens) {
+    //     i = 0;
+    
+    //     money = [];
+    
+    //     while (amount > 0) {
+    //       if (amount - apoens[i] >= 0) {
+    //         amount -= apoens[i];
+    //         money.push(apoens[i]);
+    //       } else {
+    //         i++;
+    //       }
+    //     }
+    //     return money;
+    //   }
+    
+    //   arg1 = [25, 10, 5, 2, 1];
+    //   arg2 = 174;
+    
+    //   console.log(apoensCalc(arg2, arg1));
+
+
