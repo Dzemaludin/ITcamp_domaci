@@ -1390,3 +1390,120 @@
     //   console.log(apoensCalc(arg2, arg1));
 
 
+
+
+    // let array1 = [
+    //     { id: "333222111", name: "Sulejman", age: "22" },
+    //     { id: "321123432", name: "Stefan", age: "25" },
+    //     { id: "222312543", name: "Semir", age: "32" },
+    //   ];
+      
+    //   function getObjects(array, key, value) {
+    //     let obj = array.filter((el) => {
+    //       if (el[key] === value) {
+    //         return true;
+    //       }
+    //       return false;
+    //     });
+    //     return obj;
+    //   }
+      
+    //   console.log(getObjects(array1, "name", "Semir"));
+    //   // result: [ { id: '222312543', name: 'Semir', age: '32' } ]
+
+    
+
+  // //1 zadatak
+
+
+  //   function reverseNum(x){
+  //     x = x + ""
+  //     return x.split("").reverse().join("")
+      
+  //   }
+  //   console.log(Number(reverseNum(12345)));
+
+
+
+//   //2 zadatak 
+
+
+
+// // rec = "nekarec";
+// rec = "kapak";
+// ln = rec.length - 1;
+
+// for (let i = 0; i < rec.length / 2; i++) {
+//   if (rec[i] !== rec[ln - i]) {
+//     console.log();
+//     break;
+//   }
+// }
+
+// isPalidrom = rec.split("").reverse().join("") === rec;
+
+// if (isPalidrom) {
+//   console.log("jeste planidrom ");
+// } else {
+//   console.log("nije planidrom ");
+// }
+
+// // 5 ZADATAK
+
+// function firstLetterToUppercase(word) {
+//   wordArr = word.split(" ");
+
+//   for (let i = 0; i < wordArr.length; i++) {
+//     wordArr[i] = wordArr[i].split("");
+//     // wordArr[i] = ["T"].concat(['h', 'e'])
+//     wordArr[i] = [wordArr[i][0].toUpperCase()].concat(wordArr[i].slice(1));
+//     wordArr[i] = wordArr[i].join("");
+
+//     // the
+//     wordArr[i] = wordArr[i].split("");
+//     // ['t', 'h', 'e']
+//     wordArr[i][0] = wordArr[i][0].toUpperCase();
+//     // ['T', 'h', 'e']
+//     wordArr[i] = wordArr[i].join("");
+//     // The
+//   }
+
+//   return wordArr.join(" ");
+// }
+
+// recenica = "the quick brown fox";
+
+// recenica2 = firstLetterToUppercase(recenica);
+
+// console.log(recenica);
+// console.log(recenica2);
+
+
+
+
+
+// niz1 = [1,2,3,4,5,6,7,]
+// niz2 = [3,4,5,6,7,8,]
+// function jeVeci(niz1, niz2){
+//   if(niz1.length > niz2.length){
+//     return true;
+//   } else{
+//     return false;
+//   }
+// }
+// console.log(jeVeci(niz1,niz2));
+
+
+
+
+
+// niz1 = [12,34,5,634,32,21,21,21,]
+// let uniqueChars = [...new Set(niz1)]
+// console.log(uniqueChars);
+
+
+
+
+// Array1 = ["a","B","g","W"]
+// Array2 = Array1.filter(velikoSlovo => velikoSlovo.toUpperCase() === velikoSlovo);
+// console.log(Array2);
